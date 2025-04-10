@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abraham!
 
-<!--
-**Acube-cyber007/Acube-cyber007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cybersecurity Professional** | 🧪 **Biomedical Scientist**  
+🔐 Certified by ISC2 and Google | Passionate about securing digital systems & sustainable innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+
+I'm a certified cybersecurity professional with a background in biomedical science. I combine analytical thinking and a passion for security to protect systems, analyze threats, and contribute to building a safer digital world.
+
+---
+
+## 🎓 Certifications
+
+- 🛡️ **ISC2 Certified in Cybersecurity (CC)**  
+- 📘 **Google Cybersecurity Professional Certificate**
+
+Currently exploring cloud security, vulnerability assessment, and threat analysis.
+
+---
+
+## 🚧 What I'm Working On
+
+- 🧪 Hands-on labs in **network defense and cloud security**
+- 💻 Developing practical GitHub projects to showcase my skills
+
+---
+
+## 🛠️ Tech & Tools
+
+```bash
+Languages: Python, Bash, SQL  
+Cyber Tools: Wireshark, Burp Suite, Nessus, Nmap  
+Platforms: GitHub, Linux, Windows, AWS  
+Skills: Network Security, Incident Response, Risk Analysis, Vulnerability Scanning
+
+
